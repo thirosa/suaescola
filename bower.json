@@ -1,0 +1,28 @@
+{
+  "name": "suaescola",
+  "description": "Software para controle administrativo de uma escola",
+  "main": "index.html",
+  "authors": [
+    "Thiago Albuquerque Rosa"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "escola",
+    "administrativo",
+    "escolar"
+  ],
+  "homepage": "https://github.com/thirosa/suaescola",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "metro-dist": "^3.0.15",
+    "metro": "^3.0.17",
+    "jquery": "^3.2.1"
+  }
+}
