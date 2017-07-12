@@ -1,0 +1,25 @@
+{
+  "name": "suaescola",
+  "version": "0.0.1",
+  "description": "Software para controle administrativo de uma escola",
+  "main": "index.html",  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirosa/suaescola.git"
+  },
+  "keywords": [
+    "escola",
+    "administrativo",
+    "escolar"
+  ],
+  "author": "Thiago Albuquerque Rosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thirosa/suaescola/issues"
+  },
+  "homepage": "https://github.com/thirosa/suaescola#readme"    
+}
